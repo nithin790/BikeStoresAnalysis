@@ -1,5 +1,6 @@
-
-
+/*You can download the raw data for this link (github user's)
+	link:- http://www.sqlservertutorial.net/load-sample-database/
+	*/
 USE BIkeStores;
 
 SELECT ord.order_id,
