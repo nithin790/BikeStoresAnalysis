@@ -32,4 +32,3 @@ GROUP BY
        sto.store_name,
        CONCAT(sta.first_name, ' ', sta.last_name);
 
-
